@@ -1,0 +1,8 @@
+{
+  "name": "untitled78",
+  "version": "1.0.0",
+  "devDependencies": {
+    "typescript": "*",
+    "cypress": "*"
+  }
+}
